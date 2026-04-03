@@ -14,7 +14,7 @@
     "bundle": "node esbuild.config.js"
   },
   "dependencies": {
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.18.1",
     "yjs": "^13.6.21"
   },
   "devDependencies": {
